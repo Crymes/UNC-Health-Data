@@ -17,5 +17,5 @@ This repository was created for Professor Gotzlers's English 105 class at the Un
 - The numbers on the left side of the graph is the average healthcare cost, while the numbers on the right show the homicide rate.
 - Every on of NC's county's on shown in the table.
 - The data is order from highest to lowest average healthcare cost.
-![alt-text](https://www.datawrapper.de/_/ckcMC/?v=3)
+![alt-text](ckcMC-homicide-rate-and-cost-of-healthcare-in-nc.png)
 - The data visualization above was created using [https://www.datawrapper.com)
