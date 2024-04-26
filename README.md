@@ -18,4 +18,5 @@ This repository was created for Professor Gotzlers's English 105 class at the Un
 - Every on of NC's county's on shown in the table.
 - The data is order from highest to lowest average healthcare cost.
 ![alt-text](ckcMC-homicide-rate-and-cost-of-healthcare-in-nc.png)
+- See file above for com
 - The data visualization above was created using [https://www.datawrapper.com)
